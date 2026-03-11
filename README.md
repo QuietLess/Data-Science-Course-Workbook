@@ -1,37 +1,33 @@
 # Miuul Data Scientist Path
 
-This repository contains my learning journey through the **Miuul Data Scientist Path** program.
+This repository documents my journey through the **Miuul Data Scientist Path**.  
+It includes notes, exercises, hands-on notebooks, and projects that I complete during the training process.
+
+## Why I created this repository
+
+I wanted to keep my learning journey organized, monitor my progress over time, and make my work easily accessible from different devices.
 
 ## Contents
 
-- Python Programming
-- Data Analysis
-- Data Visualization
-- Feature Engineering
-- Machine Learning
-- Projects and Case Studies
+- Python fundamentals
+- Data analysis
+- Data visualization
+- Feature engineering
+- Machine learning
+- Practice studies and mini projects
 
-## Purpose
-
-The purpose of this repository is to:
-
-- Track my learning progress
-- Store exercises and projects
-- Build a personal data science portfolio
-- Easily access my work from different devices
-
-## Tools & Libraries
-
-During this program I work with:
+## Tools & Technologies
 
 - Python
 - Pandas
 - NumPy
 - Matplotlib
 - Seaborn
-- Scikit-Learn
+- Scikit-learn
 - Jupyter Notebook
+- VS Code
+- GitHub Desktop
 
-## Structure
+## Note
 
-The repository will be organized by topics and modules as I progress through the course.
+This repository will continue to grow as I complete more modules and projects in the program.
