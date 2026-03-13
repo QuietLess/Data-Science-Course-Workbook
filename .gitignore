@@ -29,3 +29,5 @@ venv/
 # Temp files
 *.tmp
 temp/
+
+notes/
