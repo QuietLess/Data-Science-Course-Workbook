@@ -1,0 +1,32 @@
+I'll help you create a Python virtual environment. Based on your workspace, here are the steps:
+
+Create a Virtual Environment
+Run this command in your terminal: 
+
+python -m venv .venv
+
+This creates a virtual environment folder named .venv in your workspace.
+
+Activate the Environment
+On Windows (PowerShell): 
+
+.\.venv\Scripts\Activate.ps1
+
+If you get an execution policy error, run:
+
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
+
+Then try activating again.
+
+Install Requirements
+Once activated (you'll see (.venv) in your terminal), install packages: 
+
+pip install -r requirements.txt
+
+Alternative: Using VS Code's Python Extension
+VS Code can also create and manage environments automatically: 
+
+Open the Command Palette (Ctrl+Shift+P)
+Type "Python: Create Environment"
+Follow the prompts
+This will detect your requirements.txt and optionally install dependencies automatically.
