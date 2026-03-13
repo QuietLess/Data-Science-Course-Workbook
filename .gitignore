@@ -17,7 +17,8 @@ __pycache__/
 
 # Virtual environments
 env/
-venv/
+.venv/
+.data_science_env/
 
 # Environment variables
 .env
